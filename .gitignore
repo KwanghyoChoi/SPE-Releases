@@ -1,0 +1,5 @@
+# Documentation lives in Git. Installers and signed update files belong in Release assets.
+# Deny other local content by default: no application source, models, secrets or patient data.
+*
+!.gitignore
+!README.md
