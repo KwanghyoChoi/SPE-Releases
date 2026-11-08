@@ -5,7 +5,7 @@ Smart Photo Editor의 **Windows 설치파일·업데이트 파일 전용 저장�
 
 ## 다운로드 상태
 
-**0.32.0 공개 검수용 버전(prerelease)**을 다운로드할 수 있습니다. 공개 파일의 비로그인 전체 다운로드·해시 대조와 실제 Windows 설치·활성화를 확인했습니다. 추가 사진 회귀 검사와 설치된 앱의 예약 실행 검수는 진행 중이며, 전체 임상 검수 완료판으로 안내하지 않습니다.
+**0.32.0 공개 검수용 버전(prerelease)**을 다운로드할 수 있습니다. 공개 파일의 비로그인 전체 다운로드·해시 대조, 실제 Windows 설치·활성화, 지정 시각의 자동 편집·결과 창·원본 보존을 확인했습니다. 추가 사진 회귀 검사와 새 X-ray 전송 검수는 진행 중이며, 전체 임상 검수 완료판으로 안내하지 않습니다.
 
 [SPE_Install.exe 다운로드](https://github.com/KwanghyoChoi/SPE-Releases/releases/download/v0.32.0/SPE_Install.exe) · [0.32.0 검증 상태와 파일](https://github.com/KwanghyoChoi/SPE-Releases/releases/tag/v0.32.0)
 
