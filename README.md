@@ -5,9 +5,9 @@ Smart Photo Editor의 **Windows 설치파일·업데이트 파일 전용 저장�
 
 ## 다운로드 상태
 
-**0.32.0 공개 검수용 버전(prerelease)**을 다운로드할 수 있습니다. 공개 파일의 비로그인 전체 다운로드·해시 대조, 실제 Windows 설치·활성화, 지정 시각의 자동 편집·결과 창·원본 보존을 확인했습니다. 추가 사진 회귀 검사와 새 X-ray 전송 검수는 진행 중이며, 전체 임상 검수 완료판으로 안내하지 않습니다.
+**0.35.0 공개 검수용 버전(prerelease)**을 게시했습니다. 공개 ZIP의 비로그인 전체 다운로드·해시 대조 후, 동일한 검증 파일로 Windows 업데이트·실행기와 설치된 앱의 네 탭·정상 종료를 확인했습니다. 이후 GitHub 다운로드에서 HTTP 504가 발생해, Windows 설치 도구의 온라인 전체 다운로드는 재검수 중입니다. 지정 시각의 자동 편집·재편집 방지·새 사진 처리는 이전 설치본에서 검증했습니다. 추가 사진 회귀 검사와 혼합 촬영 세트·새 X-ray 전송 검수도 진행 중이며, 전체 임상 검수 완료판으로 안내하지 않습니다.
 
-[SPE_Install.exe 다운로드](https://github.com/KwanghyoChoi/SPE-Releases/releases/download/v0.32.0/SPE_Install.exe) · [0.32.0 검증 상태와 파일](https://github.com/KwanghyoChoi/SPE-Releases/releases/tag/v0.32.0)
+[SPE_Install.exe 다운로드](https://github.com/KwanghyoChoi/SPE-Releases/releases/download/v0.35.0/SPE_Install.exe) · [0.35.0 검증 상태와 파일](https://github.com/KwanghyoChoi/SPE-Releases/releases/tag/v0.35.0)
 
 **SPE_Install.exe**를 실행하고 설치 시작을 누르세요. 설치 도구가 약 1.1 GB의 공개 설치본을 내려받아 서명된 배포 정보·파일·실행 환경을 검증합니다. 설치 중 추가 검증 시간이 필요합니다. 기존 아너스 진료용 앱과 원본 사진은 변경하지 않습니다. GitHub의 `Source code` ZIP은 앱 설치파일이 아닙니다.
 
