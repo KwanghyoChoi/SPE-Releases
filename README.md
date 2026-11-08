@@ -5,9 +5,9 @@ Smart Photo Editor의 **Windows 설치파일·업데이트 파일 전용 저장�
 
 ## 다운로드 상태
 
-[SPE 0.31.0 공개 검증 후보](https://github.com/KwanghyoChoi/SPE-Releases/releases/tag/v0.31.0)를 제공합니다. 실제 설치·예약 실행 및 추가 사진 검증이 진행 중인 사전 공개본이며, 진료용 정식 배포 완료를 뜻하지 않습니다.
+현재 추가 환자 자료 검사에서 확인된 웹셉 기록 호환성을 보완하고 있습니다. 0.31 후보의 공개 다운로드 검증은 통과했지만, 보완 전 자동 설치 경로에는 연결하지 않았습니다. 후보 파일은 검증용으로 보존했으며 공개 설치본은 준비 후 [Releases](https://github.com/KwanghyoChoi/SPE-Releases/releases)에 제공합니다.
 
-처음 설치할 때는 릴리스의 **SPE_Install.exe**를 내려받아 실행하세요. 공개 설치본을 다운로드하고 서명된 배포 정보·파일을 확인합니다. 전체 파일이 필요한 경우 릴리스의 Windows ZIP을 이용할 수 있습니다. GitHub의 `Source code` ZIP은 앱 설치파일이 아닙니다.
+공개 설치본이 준비되면 릴리스의 **SPE_Install.exe**로 설치할 수 있습니다. 설치 도구는 공개 설치본을 다운로드하고 서명된 배포 정보·파일을 확인합니다. GitHub의 `Source code` ZIP은 앱 설치파일이 아닙니다.
 
 ## 이용 안내
 
